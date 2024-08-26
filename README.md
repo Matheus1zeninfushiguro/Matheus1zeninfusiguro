@@ -1,8 +1,8 @@
-bem vindo 
-meu nome é matheus
+Olá,seja bem vindo!
+O meu nome é Matheus
 
--estou aprendendo no alura
--e vou compartilhar meus projetos por aqui 
+Estou aprendendo no alura
+e vou compartilhar meus projetos por aqui 
 
 # é isso
 
